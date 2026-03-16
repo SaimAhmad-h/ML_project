@@ -1,2 +1,2 @@
 # ML_project
-text summerization project in ml
+Developed an automated text summarization system that converts long textual documents into concise and meaningful summaries using Natural Language Processing techniques. The system processes large text inputs and extracts important information to generate shorter summaries, helping users quickly understand the main content of documents. The project included implementing text preprocessing techniques such as tokenization and text cleaning, and applying transformer-based models to perform summarization using Python and NLP libraries
